@@ -27,6 +27,12 @@
     <ClCompile Include="LinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16_LowLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02_LinkedLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01_ArraysAndStrings.h">
@@ -36,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="LinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="16_LowLevel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
