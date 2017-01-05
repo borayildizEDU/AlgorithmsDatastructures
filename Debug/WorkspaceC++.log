@@ -1,12 +1,10 @@
-﻿Build started 05/09/2016 16:23:22.
-     1>Project "E:\Git\borayildizEDU\AlgorithmsDatastructures\WorkspaceC++.vcxproj" on node 2 (ClCompile target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 01_ArraysAndStrings.cpp
-         01_ArraysAndStrings.cpp
-     1>e:\git\borayildizedu\algorithmsdatastructures\01_arraysandstrings.cpp(7): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\git\borayildizedu\algorithmsdatastructures\01_arraysandstrings.cpp(19): warning C4018: '<' : signed/unsigned mismatch
-     1>Done Building Project "E:\Git\borayildizEDU\AlgorithmsDatastructures\WorkspaceC++.vcxproj" (ClCompile target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.98
+﻿  main.cpp
+  LinkedList.cpp
+  HashTable.cpp
+  16_LowLevel.cpp
+  02_LinkedLists.cpp
+  01_ArraysAndStrings.cpp
+e:\git\borayildizedu\algorithmsdatastructures\01_arraysandstrings.cpp(9): warning C4018: '<': signed/unsigned mismatch
+e:\git\borayildizedu\algorithmsdatastructures\01_arraysandstrings.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  WorkspaceC++.vcxproj -> E:\Git\borayildizEDU\AlgorithmsDatastructures\Debug\WorkspaceC++.exe

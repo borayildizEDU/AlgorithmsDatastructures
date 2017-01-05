@@ -49,14 +49,14 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="HashTables.txt">
-      <Filter>Header Files</Filter>
-    </None>
     <None Include="ArrayList.txt">
-      <Filter>Header Files</Filter>
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="HashTables.txt">
+      <Filter>Resource Files</Filter>
     </None>
     <None Include="StringBuffer.txt">
-      <Filter>Header Files</Filter>
+      <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
 </Project>
